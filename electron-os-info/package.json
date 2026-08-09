@@ -1,0 +1,12 @@
+{
+  "name": "electron-os-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
